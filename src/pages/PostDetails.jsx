@@ -28,7 +28,7 @@ const PostDetails = () => {
     <>
       <div className="m-5 flex items-center">
         <Link
-          className="py-2 px-5 bg-gray-400 text-white font-semibold rounded-full shadow-md hover:bg-gray-700  "
+          className="py-2 px-5 bg-gray-500 text-white font-semibold rounded-full shadow-md hover:bg-gray-700  "
           to={".."}
         >
           Back
